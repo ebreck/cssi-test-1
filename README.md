@@ -1,2 +1,2 @@
 # cssi-test-1
-Author: Eric
+Author: Eric Breck, Reuven Lazarus
